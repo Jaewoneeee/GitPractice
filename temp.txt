@@ -5,8 +5,3 @@ asdfsdafdsa
 =======
 >>>>>>> main
 asdjlkjlfasdjlk;
-
-reset test1
-
-asd
-reset test2

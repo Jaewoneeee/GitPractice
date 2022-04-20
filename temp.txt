@@ -1,7 +1,7 @@
 ga
 asdfsdafdsa
-<<<<<<< HEAD
 asdfsdafdsa
-=======
->>>>>>> main
 asdjlkjlfasdjlk;
+
+
+testet

@@ -1,3 +1,6 @@
 ga
 asdfsdafdsa
+<<<<<<< HEAD
 asdfsdafdsa
+=======
+>>>>>>> main

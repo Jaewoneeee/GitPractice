@@ -1,0 +1,3 @@
+# GitPractice
+
+### Hello Git!
